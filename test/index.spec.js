@@ -1,7 +1,7 @@
 /**
  * @name get review basic page interactivity
  *
- * @desc Basic smoke tests for alpha site
+ * @desc Basic smoke tests for covid19.ca.gov site
  */
 const puppeteer = require('puppeteer');
 const queryString = require('query-string');
