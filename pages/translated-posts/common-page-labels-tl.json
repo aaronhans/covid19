@@ -1,0 +1,173 @@
+{
+  "Table1": [
+    {
+      "_id": "california_for_all",
+      "text": "California para sa Lahat"
+    },
+    {
+      "_id": "your_actions_save_lives",
+      "text": "Nakakasagip ng Buhay ang Iyong Mga Pagkilos"
+    },
+    {
+      "_id": "search",
+      "text": "Maghanap"
+    },
+    {
+      "_id": "search_this_site",
+      "text": "Maghanap sa site na ito"
+    },
+    {
+      "_id": "submit_search",
+      "text": "Isumite ang Paghahanap"
+    },
+    {
+      "_id": "language",
+      "text": "Wika"
+    },
+    {
+      "_id": "select_language",
+      "text": "Pumili ng wika"
+    },
+    {
+      "_id": "more",
+      "text": "Higit pa …"
+    },
+    {
+      "_id": "menu",
+      "text": "Menu"
+    },
+    {
+      "_id": "menu_close",
+      "text": "Isara"
+    },
+    {
+      "_id": "what_are_you_looking_for",
+      "text": "Ano ang hinahanap mo?"
+    },
+    {
+      "_id": "is_this_page_useful",
+      "text": "Nakatulong ba ang page na ito?"
+    },
+    {
+      "_id": "answer_yes",
+      "text": "Oo"
+    },
+    {
+      "_id": "answer_no",
+      "text": "Hindi"
+    },
+    {
+      "_id": "additional_comments",
+      "text": "Mga karagdagang komento:"
+    },
+    {
+      "_id": "this_field_required",
+      "text": "Kinakailangan ang field na ito"
+    },
+    {
+      "_id": "submit",
+      "text": "Isumite"
+    },
+    {
+      "_id": "thank_you_for_your_comments",
+      "text": "Salamat sa iyong mga komento!"
+    },
+    {
+      "_id": "thank_you_for_your_feedback",
+      "text": "Salamat sa iyong feedback!"
+    },
+    {
+      "_id": "home",
+      "text": "Home"
+    },
+    {
+      "_id": "official_ca_website",
+      "text": "Opisyal na Website ng Pamahalaan ng Estado ng California"
+    },
+    {
+      "_id": "last_updated",
+      "text": "Huling na-update"
+    },
+    {
+      "_id": "hotline_label",
+      "text": "Hotline para sa COVID-19"
+    },
+    {
+      "_id": "hotline_hours",
+      "text": "M-F 8AM-8PM, Sa-Su 8AM-5PM"
+    }
+  ],
+  "Table2": [
+    {
+      "Name": "CA.gov",
+      "_URL": "https://www.ca.gov"
+    },
+    {
+      "Name": "Departamento ng Pampublikong Kalusugan",
+      "_URL": "https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx"
+    },
+    {
+      "Name": "Newsroom ng Gobernador",
+      "_URL": "https://www.gov.ca.gov/newsroom/"
+    },
+    {
+      "Name": "Accessibility",
+      "_URL": "https://www.ca.gov/accessibility/"
+    },
+    {
+      "Name": "Patakaran sa Privacy",
+      "_URL": "https://www.ca.gov/privacy-policy/"
+    },
+    {
+      "Name": "Feedback",
+      "_URL": "https://www.surveymonkey.com/r/COVID19CAGOV"
+    },
+    {
+      "Name": "Magparehistro para makaboto",
+      "_URL": "https://registertovote.ca.gov"
+    }
+  ],
+  "Table3": [
+    {
+      "Name": "Tungkol sa mga paghihigpit kaugnay ng COVID-19",
+      "_slug": "stay-home-except-for-essential-needs"
+    },
+    {
+      "Name": "Blueprint para sa Mas Ligtas na Ekonomiya",
+      "_slug": "safer-economy"
+    },
+    {
+      "Name": "Ano'ng nakabukas",
+      "_slug": "safer-economy"
+    },
+    {
+      "Name": "Gabay sa industriya",
+      "_slug": "industry-guidance"
+    },
+    {
+      "Name": "Lokal na impormasyon at mga alerto",
+      "_slug": "get-local-information"
+    }
+  ],
+  "Table4": [
+    {
+      "Link Title": "Ano ang gabay para ligtas na makapagbukas ang aking negosyo?",
+      "URL": "#"
+    },
+    {
+      "Link Title": "Saan ako makakahanap ng tulong para sa aking negosyo?",
+      "URL": "#"
+    }
+  ],
+  "Table5": [
+    {
+      "Video Title": "Salamat",
+      "Description": "Salamat sa paggawa ng lahat ng iyong makakaya para mapigilan ang pagkalat ng COVID-19 ngayong holiday.",
+      "VideoURL": "youtu.be/8S5iiKx5dhc",
+      "VideoID": "8S5iiKx5dhc",
+      "ImageURL": "files.covid19.ca.gov/img/thankyou2.jpg",
+      "ImageALT": "Salamat",
+      "ButtonText": "Panoorin ang video"
+    }
+  ]
+}

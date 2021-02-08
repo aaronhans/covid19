@@ -1,96 +1,86 @@
-<!doctype html>
-<html {{ tags | htmllangattributes | safe }}>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="{{ meta | safe }}">
-    <meta name="author" content="{{ author | safe }}">
-    <meta name="keywords" content="covid19, coronavirus, covid19, covid-19, california">
-    {%- if tags | includes("do-not-crawl") %}
-      <meta name="robots" content="noindex">
-    {%- endif %}
-    <title>{{ title | safe }} - Coronavirus COVID-19 Response</title>
+{% extends "layout.njk" %}
+{% import "macros.njk" as macros %}
+{%- set text = pubData[language.id].commonPageLabels.Table1[0] -%}
 
-    <meta content="{{ title | safe }}" property="og:title">
-    {% if page.fileSlug === "healthcorps" %}
-      <meta content="https://covid19.ca.gov/img/Health-Corps-Website-Banner.jpg" property="og:image">
-    {% elseif page.fileSlug === "roadmap" or page.fileSlug === "industry-guidance" or page.fileSlug === "roadmap-counties" %}
-      <meta content="https://covid19.ca.gov/img/recovery-roadmap-share.jpg" property="og:image">
-    {% else %}
-      <meta content="https://covid19.ca.gov/img/awareness/CAForAll_COVID_EndCards_v4_English.jpg" property="og:image">
-    {% endif %}
-    <meta content="{{ meta | safe }}" property="og:description">
-    <meta property="og:url" content="https://covid19.ca.gov{{ page.url }}">
-    <meta name="twitter:card" content="summary_large_image">
+{% block title %} 
+  <title>{{ title | safe }} - Coronavirus COVID-19 Response</title>
+{% endblock %}
 
-    <link rel="preconnect" href="https://www.google-analytics.com/">
-    <link href="https://covid19.ca.gov{{ page.url }}" rel="canonical">
+{% block meta %}
+  <meta name="keywords" content="covid19, coronavirus, covid19, covid-19, california">
+  {%- if tags | includes("do-not-crawl") %}
+    <meta name="robots" content="noindex">
+  {%- endif %}
+  {% if page.fileSlug === "healthcorps" %}
+    <meta content="https://covid19.ca.gov/img/Health-Corps-Website-Banner.jpg" property="og:image">
+  {% else %}
+    <meta content="https://covid19.ca.gov/img/awareness/CAForAll_COVID_EndCards_v4_English.jpg" property="og:image">
+  {% endif %}
+  <meta property="og:url" content="https://covid19.ca.gov{{ page.url }}">
+{% endblock %}
 
-    {% include "favicons.njk" %}
-    <link rel="manifest" href="/img/manifest.json">
-    <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="msapplication-TileImage" content="img/ms-icon-144x144.png">
-    <meta name="theme-color" content="#ffffff">
-    {% for item in page | getAltPageRows -%}
-      <link rel="alternate" hreflang="{{item.langcode}}" href="https://covid19.ca.gov{{item.url}}">
-    {%- endfor %}
-    {% set css %}
-    {% include "built.css" %}
-    {% endset %}
-    <style>
-      {{css | cssmin | safe}}
-    </style>
-    <!-- WC polyfill for legacy Edge -->
-    <script>
-      (function () {
-        if (window.fetch && !window.customElements) {
-          var s = document.createElement("script");
-          s.type = "text/javascript",
-          s.src = "https://cdnjs.cloudflare.com/ajax/libs/document-register-element/1.14.3/document-register-element.js",
-          document
-            .head
-            .appendChild(s)
-        }
-      })();
-    </script>
-  </head>
-  <body>
-    {% include "header.njk" %}
-    {% set JSONraw %}{% include "../wordpress-posts/footer-data" + tags | langFilePostfix + ".json" %}{% endset %}
-    {% set JSON = JSONraw | jsonparse %}
-    {% set Terms = JSON.Table3 %}
-    <main id="main">
-      
-      <div class="container-fluid jumbotron {% if page.fileSlug === "roadmap-counties" %}county-img{% endif %} inverse-hyperlink jumbo-img">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-10">
-              <h1>{{ title | safe }}</h1>
-              {% if page.fileSlug !== "search" %}
-                <p class="small-text">{{Terms[5].Text}}
-                  {% if page.fileSlug === "roadmap-counties" %}
-                    {{ "today" | formatDate }}
-                  {% else %}
-                    {{ publishdate | formatDate }}
-                  {% endif %}
-                </p>
-              {% endif %}
-            </div>
-          </div>
+{% block headCSS %}
+	{{ macros.includeCSSByEnv("built", env.dev) }}
+  {{ super() }}
+{% endblock %}
+
+{% block bodyClass %}interior-page {%- pagesection page, 'safer-economy' %} safer-economy-page{% endpagesection %}{% endblock%}
+
+{% block preHeader %}
+{%- pagesection page, "vaccines" %}
+	<cagov-vaccinesurvey data-npi-survey-url="{{ tags | npiSurveyUrl | safe }}" data-pulse-survey-url="{{ tags | pulseSurveyUrl | safe }}" data-survey-prompt="{{Terms[9].Text}}" data-pulse-survey-prompt="{{Terms[10].Text}}"></cagov-vaccinesurvey> 		
+{% endpagesection -%}
+{% endblock %}
+
+{% block contentBlock %}
+  <div class="container-fluid jumbotron{%- pagesection page, 'state-dashboard' %} mb-0{%- endpagesection %}{%- pagesection page, 'v2-state-dashboard' %} mb-0{%- endpagesection %} inverse-hyperlink jumbo-img">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-10 mx-auto">
+          <h1>{{ title | safe }}</h1>
+          {% if page | engSlug !== "search" %}
+            <p class="small-text">{{text.last_updated}}&nbsp;
+              {%- if page | engSlug === "safer-economy" or page | engSlug === "data-and-tools" -%}
+                {{ "today" | formatDate2(true,tags) }}
+              {%- elseif page | engSlug === "state-dashboard" -%}
+                {{ (tableauCovidMetrics[0].DATE + "T19:00:00Z") | formatDate2(true,tags,1) }}
+              {%- elseif page | engSlug === "v2-state-dashboard" -%}
+                {# {{ (tableauCovidMetrics[0].DATE + "T19:00:00Z") | formatDate2(true,tags,1) }} #}
+                {{ (dailyStatsV2.data.cases.DATE + "T19:00:00Z") | formatDate2(true,tags,1) }}
+              {%- elseif page | engSlug === "equity" -%}
+                {{ (equityTopBoxes[0].lowincome_date + "T23:00:00Z") | formatDate2(true,tags,1) }}
+                {# {{ "today" | formatDate2(true,tags,-1) }} #}
+              {%- else -%}
+                {{ publishdate | formatDate2(true,tags) }}
+              {%- endif -%}
+            </p>
+          {% endif %}
         </div>
       </div>
+    </div>
+  </div>
+  {%- pagesection page, "state-dashboard" %}
+  {% include "dashboard.njk" %}
+  {% endpagesection -%}
+  {%- pagesection page, "v2-state-dashboard" %}
+  {% include "dashboard-v2.njk" %}
+  {% endpagesection -%}
 
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-10">
-            {{ content | safe  }}
-            {%- pagesection page, "search" %}
-            {% include "search.njk" %}
-            {% endpagesection -%}
-          </div>
-        </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+        {{ content | safe  }}
+        {%- pagesection page, "search" %}
+        {% include "search.njk" %}
+        {% endpagesection -%}
+        {%- pagesection page, "guidance-languages" %}
+        {% include "../wordpress-posts/industry-guidance-in-other-languages-links-fragment.html" %}
+        {% endpagesection -%}
+        {%- pagesection page, "safer-economy" %}
+        {% include "reopening-matrix.njk" %}
+        {% endpagesection -%}
       </div>
-    </main>
-    {% include "footer.njk" %}
-  </body>
-</html>
+    </div>
+  </div>
+  <!-- end contentBlock -->
+{% endblock %}

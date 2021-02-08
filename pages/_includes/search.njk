@@ -42,7 +42,7 @@
 	}
 	const urlq = urlParam('q')||'';
   const query = decodeURIComponent(urlq.replace(/\+/g,' ').toLowerCase());
-  document.querySelector('input[name=q]').value = query;
+	document.querySelectorAll('input[name=q]').forEach(x=>x.value=query);
 </script> 
 
 <script>
@@ -55,7 +55,7 @@
 		}
 		history.pushState(null,null,`${currentHost}${window.location.pathname}?q=${query}`);
 		document.querySelector('#answersNow').innerHTML = "";
-		fetch(`https://fa-go-alph-covidqna-001.azurewebsites.net/api/CovidAnswer?q=${query}&name=123`)
+		fetch(`https://fa-go-alph-covidqna-001.azurewebsites.net/CovidAnswer?q=${query}&name=123`)
 		.then(response => response.json())
 		.then(data => {
 			let answers = [...data[0].answers];
@@ -68,7 +68,7 @@
 							document.querySelector('head').appendChild(newScript);
 						}
 						if(a.questions.length > 0) {
-							return `<cwds-accordion>
+							return `<cagov-accordion>
 								<div class="card"><button class="card-header accordion-alpha" type="button" aria-expanded="false">
 										<div class="accordion-title">${a.questions.join(' ')}</div>
 									</button>
@@ -78,7 +78,7 @@
 										</div>
 									</div>
 								</div>
-							</cwds-accordion>`;
+							</cagov-accordion>`;
 						} else {
 							return '';
 						}
@@ -103,7 +103,7 @@
 	const popularQueryiesCallback = data => {
 		document.querySelector('#queries').innerHTML += data.popularQueries
 			.map(x=>x.query)
-			.filter(x=>x.match(/\S+/g).length<=4)
+			.filter(x=>(x.match(/\S+/g).length<=4 && !x.match(/fuck/i)))
 			.map(x=>
 				`<a rel="nofollow" class="action-link border-0 mr-3 mb-3" style="margin:0" href="?q=${x}">${x}</a>`
 			).join('');

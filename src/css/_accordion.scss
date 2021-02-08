@@ -1,31 +1,34 @@
 /* accordion component specific classes */
-    
-cwds-accordion .card-container {
-  height: 0px;
-  display: block;
-  overflow: hidden;
-  transition: height .3s;
+cagov-accordion .card {
+  border-radius: 0 !important;
+  border: none;
+  margin-bottom: 0;
 }
 
-cwds-accordion .card-body .wp-block-table {
+cagov-accordion .card-container {
+  display: block;
+  overflow: hidden;
+  transition: height 0.3s;
+  &[aria-hidden="false"] {
+    border-bottom: 1px solid $darkblue;
+  }
+}
+
+cagov-accordion.prog-enhanced .card-container {
+  height: 0px;
+}
+
+cagov-accordion .card-body .wp-block-table {
   overflow: scroll;
 }
 
-cwds-accordion .card-header {
-  cursor: pointer;
-}
-
-cwds-accordion .collapsed {
+cagov-accordion .collapsed {
   display: block;
   overflow: hidden;
   visibility: hidden;
 }
 
-cwds-accordion .card-header .button {
-  color: #000;
-}
-
-cwds-accordion .card-header .button {
+.card-header .button {
   color: #000;
 }
 
@@ -34,34 +37,143 @@ cwds-accordion .card-header .button {
 }
 
 .accordion-title {
-	padding: .5rem;
-	padding-left: 1rem;
-	font-family: "Public Sans Bold", sans-serif;	
-	text-align: left;
-	font-size: 1.5rem;
-	margin-bottom: 0;
-	color:#000;
+  padding: 0.5rem;
+  text-align: left;
+  margin-bottom: 0;
+  color: $darkblue;
+  margin-right: auto;
+  width: 90%;
+  h4,
+  h3,
+  h2 {
+    padding: 0 !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    font-family: "Roboto", sans-serif;
+    font-size: 1.2rem !important;
+    font-weight: 700;
+    color: $darkblue;
+  }
 }
 
-.accordion h2 {
-  margin: 0;
-  padding: 10px;
+button.card-header {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  padding: 1rem 0.75rem;
+  background-clip: border-box;
+  background-color: $white;
+  border: none;
+  border-bottom: 1px solid $darkblue;
+  border-top: 1px solid $darkblue;
+  border-radius: 0 !important;
+  margin-top: -1px;
+  &:hover {
+    background-color: $lightestblue;
+  }
+  &:focus {
+    outline-offset: -2px;
+  }
 }
 
-.accordion-alpha {
-	background-image: url(/img/plus.svg);
-    background-position: right 1.25rem center;
-    background-size: 1rem;
-    background-repeat: no-repeat;
+.prog-enhanced .accordion-alpha .plus-munus {
+  font-family: CaGov !important;
+  width: 2.125rem;
+  height: 2.125rem;
+  border: 2px solid $orange;
+  border-radius: 50%;
+  padding: 0.02rem 0;
+  overflow: hidden;
+  transition: all 0.3s ease;
+  margin-left: 1rem;
+  color: $orange;
+  font-size: 1.5rem;
+  align-self: flex-start;
+  &:before {
+    content: "\4c";
+  }
 }
 
-.accordion-alpha-open {
-	background-image: url(/img/minus.svg);
-    background-position: right 1.25rem center;
-    background-size: 1rem;
-    background-repeat: no-repeat;
+.prog-enhanced .accordion-alpha-open {
+  border-bottom-color: $white !important;
+  .plus-munus {
+    font-family: CaGov !important;
+    &:before {
+      content: "\4b";
+    }
+  }
+}
+@function tint($color, $percentage) {
+  @return mix(white, $color, $percentage);
+}
+
+
+//Dark accordion
+
+// first sibling
+.dark-accordion-bg > .container.dark-accordion-first {
+  padding-top: 3rem;
+  margin-top: 3rem;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+// stand alone
+.dark-accordion-bg > .container {
+  padding-top: 3rem;
+  margin-top: 3rem;
+  padding-bottom: 3rem;
+  margin-bottom: 3rem;
+}
+// siblings (in the middle)
+.dark-accordion-sibling > .container {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+}
+// last sibling (with many siblings)
+.dark-accordion-sibling + .dark-accordion-bg > .container {
+  padding-top: 0rem;
+  margin-top: 0rem;
+  padding-bottom: 3rem;
+  margin-bottom: 3rem;
 }
 
 
 
+.dark-accordion-bg {
+  .card {
+    background-color: $darkblue;
+    .accordion-alpha {
+      background-color: $darkblue;
+      border-bottom: 1px solid tint($darkblue, 20%);
+      border-top: 1px solid tint($darkblue, 20%);
+      &.accordion-alpha-open {
+        border-bottom-color: $darkblue !important;
+      }
+      &:hover, &:focus {
+        background-color: $blue;
+      }
+      .accordion-title {
+        color: $white;
+        h4,
+        h3,
+        h2 {
+          color: $white;
+        }
+      }
+    }
 
+    //dark accordion content
+    .card-container {
+      &[aria-hidden="false"] {
+        border-bottom: 1px solid tint($darkblue, 20%);
+      }
+      color: $white;
+      h2, h3, h4, h5 {
+        color: $white;
+      }
+    }
+
+  }
+}
