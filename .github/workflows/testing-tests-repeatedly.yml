@@ -3,6 +3,7 @@ name: Testing tests repeatedly
 on:
   schedule:
     - cron: "*/5 * * * *"
+  workflow_dispatch:
 
 jobs:
   build_and_test_job:
