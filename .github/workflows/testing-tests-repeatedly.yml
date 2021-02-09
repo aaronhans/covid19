@@ -1,4 +1,4 @@
-name: Testing tests repeatedly
+name: Azure Static Web Apps CI/CD
 
 on:
   schedule:
@@ -7,12 +7,22 @@ on:
 jobs:
   build_and_test_job:
     runs-on: ubuntu-latest
-    name: Build and test Job
+    name: Build and test job
     steps:
-      - uses: actions/checkout@v2
-        with:
-          submodules: true
+      - uses: n1hility/cancel-previous-runs@v2
+        with: 
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@master
       - name: Build 11ty
         run: |
           npm install
           npm run build
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+      - name: npm test
+        run: |
+          npm test
+        env:
+          CI: true
