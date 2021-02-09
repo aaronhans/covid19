@@ -2,1603 +2,2028 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>https://covid19.ca.gov/ar/</loc>
-        <lastmod>2020-04-20T22:59:32Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/more-ways-to-help/</loc>
+        <lastmod>2020-06-25T12:21:39.000Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/es/</loc>
-        <lastmod>2020-07-20T17:00:21.182Z</lastmod>
+        <loc>https://covid19.ca.gov/es/more-ways-to-help/</loc>
+        <lastmod>2020-06-25T12:21:39.000Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ko/more-ways-to-help/</loc>
+        <lastmod>2020-06-25T12:21:39.000Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/tl/more-ways-to-help/</loc>
+        <lastmod>2020-06-25T12:21:39.000Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/vi/more-ways-to-help/</loc>
+        <lastmod>2020-06-25T12:21:39.000Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hans/more-ways-to-help/</loc>
+        <lastmod>2020-06-25T12:21:39.000Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hant/more-ways-to-help/</loc>
+        <lastmod>2020-06-25T12:21:39.000Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ar/recovery-input/</loc>
+        <lastmod>2020-05-08T15:34:58Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/es/recovery-input/</loc>
+        <lastmod>2020-05-08T15:34:58Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ko/recovery-input/</loc>
+        <lastmod>2020-05-08T15:34:58Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/tl/recovery-input/</loc>
+        <lastmod>2020-05-08T15:34:58Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/vi/recovery-input/</loc>
+        <lastmod>2020-05-08T15:34:58Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hans/recovery-input/</loc>
+        <lastmod>2020-05-08T15:34:58Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hant/recovery-input/</loc>
+        <lastmod>2020-05-08T15:34:58Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ar/sign-up-for-county-alerts/</loc>
+        <lastmod>2020-06-19T14:56:11.000Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/es/sign-up-for-county-alerts/</loc>
+        <lastmod>2020-06-19T14:56:11.000Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ko/sign-up-for-county-alerts/</loc>
+        <lastmod>2020-06-19T14:56:11.000Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/tl/sign-up-for-county-alerts/</loc>
+        <lastmod>2020-06-19T14:56:11.000Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/vi/sign-up-for-county-alerts/</loc>
+        <lastmod>2020-06-19T14:56:11.000Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hans/sign-up-for-county-alerts/</loc>
+        <lastmod>2020-06-19T14:56:11.000Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hant/sign-up-for-county-alerts/</loc>
+        <lastmod>2020-06-19T14:56:11.000Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ar/telehealth/</loc>
+        <lastmod>2020-06-20T06:07:35.000Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/es/telehealth/</loc>
+        <lastmod>2020-06-20T06:07:35.000Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ko/telehealth/</loc>
+        <lastmod>2020-06-20T06:07:35.000Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/tl/telehealth/</loc>
+        <lastmod>2020-06-20T06:07:35.000Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/vi/telehealth/</loc>
+        <lastmod>2020-06-20T06:07:35.000Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hans/telehealth/</loc>
+        <lastmod>2020-06-20T06:07:35.000Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hant/telehealth/</loc>
+        <lastmod>2020-06-20T06:07:35.000Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ar/</loc>
+        <lastmod>2021-02-08T23:56:24.080Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/</loc>
-        <lastmod>2020-07-20T17:00:21.183Z</lastmod>
+        <lastmod>2021-02-08T23:56:24.081Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/es/</loc>
+        <lastmod>2021-02-08T23:56:24.081Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/ko/</loc>
-        <lastmod>2020-07-20T17:00:21.183Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/latest-news/</loc>
-        <lastmod>2020-03-19T19:15:27Z</lastmod>
+        <lastmod>2021-02-08T23:56:24.081Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/tl/</loc>
-        <lastmod>2020-07-20T17:00:21.184Z</lastmod>
+        <lastmod>2021-02-08T23:56:24.081Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/vi/</loc>
-        <lastmod>2020-07-20T17:00:21.184Z</lastmod>
+        <lastmod>2021-02-08T23:56:24.081Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/zh-hans/</loc>
-        <lastmod>2020-07-20T17:00:21.185Z</lastmod>
+        <lastmod>2021-02-08T23:56:24.081Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/zh-hant/</loc>
-        <lastmod>2020-07-20T17:00:21.185Z</lastmod>
+        <lastmod>2021-02-08T23:56:24.081Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/business-and-employers-ar/</loc>
-        <lastmod>2020-07-09T16:17:15.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/latest-news/</loc>
+        <lastmod>2021-02-09T00:01:27.005Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/business-and-employers-es/</loc>
-        <lastmod>2020-07-09T16:17:15.000Z</lastmod>
+        <loc>https://covid19.ca.gov/es/latest-news/</loc>
+        <lastmod>2021-02-09T00:01:27.005Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/business-and-employers-ko/</loc>
-        <lastmod>2020-07-09T16:17:15.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/latest-news/</loc>
+        <lastmod>2021-02-09T00:01:27.005Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/business-and-employers-tl/</loc>
-        <lastmod>2020-07-09T16:17:15.000Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/latest-news/</loc>
+        <lastmod>2021-02-09T00:01:27.005Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/business-and-employers-vi/</loc>
-        <lastmod>2020-07-09T16:17:15.000Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/latest-news/</loc>
+        <lastmod>2021-02-09T00:01:27.005Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/business-and-employers-zh-hans/</loc>
-        <lastmod>2020-07-09T16:17:15.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/latest-news/</loc>
+        <lastmod>2021-02-09T00:01:27.005Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/business-and-employers-zh-hant/</loc>
-        <lastmod>2020-07-09T16:17:15.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/latest-news/</loc>
+        <lastmod>2021-02-09T00:01:27.005Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/care-in-senior-facilities-ar/</loc>
-        <lastmod>2020-06-03T17:02:27.000Z</lastmod>
+        <loc>https://covid19.ca.gov/latest-news/</loc>
+        <lastmod>2021-02-09T00:01:27.005Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/care-in-senior-facilities-es/</loc>
-        <lastmod>2020-06-03T17:02:27.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/agency-response/</loc>
+        <lastmod>2020-11-16T20:23:13Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/care-in-senior-facilities-ko/</loc>
-        <lastmod>2020-06-03T17:02:27.000Z</lastmod>
+        <loc>https://covid19.ca.gov/es/agency-response/</loc>
+        <lastmod>2020-11-16T20:23:13Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/care-in-senior-facilities-tl/</loc>
-        <lastmod>2020-06-03T17:02:27.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/agency-response/</loc>
+        <lastmod>2020-11-16T20:23:13Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/care-in-senior-facilities-vi/</loc>
-        <lastmod>2020-06-03T17:02:27.000Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/agency-response/</loc>
+        <lastmod>2020-11-16T20:23:13Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/care-in-senior-facilities-zh-hans/</loc>
-        <lastmod>2020-06-03T17:02:27.000Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/agency-response/</loc>
+        <lastmod>2020-11-16T20:23:13Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/care-in-senior-facilities-zh-hant/</loc>
-        <lastmod>2020-06-03T17:02:27.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/agency-response/</loc>
+        <lastmod>2020-11-16T20:23:13Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/childcare-ar/</loc>
-        <lastmod>2020-07-07T17:10:26.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/agency-response/</loc>
+        <lastmod>2020-11-16T20:23:13Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/childcare-es/</loc>
-        <lastmod>2020-07-07T17:10:26.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/business-and-employers/</loc>
+        <lastmod>2021-01-05T19:24:11Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/childcare-ko/</loc>
-        <lastmod>2020-07-07T17:10:26.000Z</lastmod>
+        <loc>https://covid19.ca.gov/es/business-and-employers/</loc>
+        <lastmod>2021-01-05T19:24:11Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/childcare-tl/</loc>
-        <lastmod>2020-07-07T17:10:26.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/business-and-employers/</loc>
+        <lastmod>2021-01-05T19:24:11Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/childcare-vi/</loc>
-        <lastmod>2020-07-07T17:10:26.000Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/business-and-employers/</loc>
+        <lastmod>2021-01-05T19:24:11Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/childcare-zh-hans/</loc>
-        <lastmod>2020-07-07T17:10:26.000Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/business-and-employers/</loc>
+        <lastmod>2021-01-05T19:24:11Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/childcare-zh-hant/</loc>
-        <lastmod>2020-07-07T17:10:26.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/business-and-employers/</loc>
+        <lastmod>2021-01-05T19:24:11Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/contact-tracing-ar/</loc>
-        <lastmod>2020-07-08T14:58:33.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/business-and-employers/</loc>
+        <lastmod>2021-01-05T19:24:11Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/contact-tracing-es/</loc>
-        <lastmod>2020-07-08T14:58:33.000Z</lastmod>
+        <loc>https://covid19.ca.gov/es/care-in-senior-facilities/</loc>
+        <lastmod>2021-01-04T23:12:36Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/contact-tracing-ko/</loc>
-        <lastmod>2020-07-08T14:58:33.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/care-in-senior-facilities/</loc>
+        <lastmod>2021-01-04T23:12:36Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/contact-tracing-tl/</loc>
-        <lastmod>2020-07-08T14:58:33.000Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/care-in-senior-facilities/</loc>
+        <lastmod>2021-01-04T23:12:36Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/contact-tracing-vi/</loc>
-        <lastmod>2020-07-08T14:58:33.000Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/care-in-senior-facilities/</loc>
+        <lastmod>2021-01-04T23:12:36Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/contact-tracing-zh-hans/</loc>
-        <lastmod>2020-07-08T14:58:33.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/care-in-senior-facilities/</loc>
+        <lastmod>2021-01-04T23:12:36Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/contact-tracing-zh-hant/</loc>
-        <lastmod>2020-07-08T14:58:33.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/care-in-senior-facilities/</loc>
+        <lastmod>2021-01-04T23:12:36Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/contracts-ar/</loc>
-        <lastmod>2020-07-06T15:22:42.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/childcare/</loc>
+        <lastmod>2021-01-29T18:47:06Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/contracts-es/</loc>
-        <lastmod>2020-07-06T15:22:42.000Z</lastmod>
+        <loc>https://covid19.ca.gov/es/childcare/</loc>
+        <lastmod>2021-01-29T18:47:06Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/contracts-ko/</loc>
-        <lastmod>2020-07-06T15:22:42.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/childcare/</loc>
+        <lastmod>2021-01-29T18:47:06Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/contracts-tl/</loc>
-        <lastmod>2020-07-06T15:22:42.000Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/childcare/</loc>
+        <lastmod>2021-01-29T18:47:06Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/contracts-vi/</loc>
-        <lastmod>2020-07-06T15:22:42.000Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/childcare/</loc>
+        <lastmod>2021-01-29T18:47:06Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/contracts-zh-hans/</loc>
-        <lastmod>2020-07-06T15:22:42.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/childcare/</loc>
+        <lastmod>2021-01-29T18:47:06Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/contracts-zh-hant/</loc>
-        <lastmod>2020-07-06T15:22:42.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/childcare/</loc>
+        <lastmod>2021-01-29T18:47:06Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/data-and-tools-ar/</loc>
-        <lastmod>2020-07-08T15:37:24.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/contact-tracing/</loc>
+        <lastmod>2021-01-20T20:14:30Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/data-and-tools-es/</loc>
-        <lastmod>2020-07-08T15:37:24.000Z</lastmod>
+        <loc>https://covid19.ca.gov/es/contact-tracing/</loc>
+        <lastmod>2021-01-20T20:14:30Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/data-and-tools-ko/</loc>
-        <lastmod>2020-07-08T15:37:24.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/contact-tracing/</loc>
+        <lastmod>2021-01-20T20:14:30Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/data-and-tools-tl/</loc>
-        <lastmod>2020-07-08T15:37:24.000Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/contact-tracing/</loc>
+        <lastmod>2021-01-20T20:14:30Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/data-and-tools-vi/</loc>
-        <lastmod>2020-07-08T15:37:24.000Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/contact-tracing/</loc>
+        <lastmod>2021-01-20T20:14:30Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/data-and-tools-zh-hans/</loc>
-        <lastmod>2020-07-08T15:37:24.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/contact-tracing/</loc>
+        <lastmod>2021-01-20T20:14:30Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/data-and-tools-zh-hant/</loc>
-        <lastmod>2020-07-08T15:37:24.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/contact-tracing/</loc>
+        <lastmod>2021-01-20T20:14:30Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/discrimination-ar/</loc>
-        <lastmod>2020-07-07T22:05:39.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/contracts/</loc>
+        <lastmod>2020-11-05T01:03:46Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/discrimination-es/</loc>
-        <lastmod>2020-07-07T22:05:39.000Z</lastmod>
+        <loc>https://covid19.ca.gov/es/contracts/</loc>
+        <lastmod>2020-11-05T01:03:46Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/discrimination-ko/</loc>
-        <lastmod>2020-07-07T22:05:39.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/contracts/</loc>
+        <lastmod>2020-11-05T01:03:46Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/discrimination-tl/</loc>
-        <lastmod>2020-07-07T22:05:39.000Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/contracts/</loc>
+        <lastmod>2020-11-05T01:03:46Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/discrimination-vi/</loc>
-        <lastmod>2020-07-07T22:05:39.000Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/contracts/</loc>
+        <lastmod>2020-11-05T01:03:46Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/discrimination-zh-hans/</loc>
-        <lastmod>2020-07-07T22:05:39.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/contracts/</loc>
+        <lastmod>2020-11-05T01:03:46Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/discrimination-zh-hant/</loc>
-        <lastmod>2020-07-07T22:05:39.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/contracts/</loc>
+        <lastmod>2020-11-05T01:03:46Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/education-ar/</loc>
-        <lastmod>2020-07-20T14:54:31.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/data-and-tools/</loc>
+        <lastmod>2020-11-14T14:33:25Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/education-es/</loc>
-        <lastmod>2020-07-20T14:54:31.000Z</lastmod>
+        <loc>https://covid19.ca.gov/es/data-and-tools/</loc>
+        <lastmod>2020-11-14T14:33:25Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/education-ko/</loc>
-        <lastmod>2020-07-20T14:54:31.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/data-and-tools/</loc>
+        <lastmod>2020-11-14T14:33:25Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/education-tl/</loc>
-        <lastmod>2020-07-20T14:54:31.000Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/data-and-tools/</loc>
+        <lastmod>2020-11-14T14:33:25Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/education-vi/</loc>
-        <lastmod>2020-07-20T14:54:31.000Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/data-and-tools/</loc>
+        <lastmod>2020-11-14T14:33:25Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/education-zh-hans/</loc>
-        <lastmod>2020-07-20T14:54:31.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/data-and-tools/</loc>
+        <lastmod>2020-11-14T14:33:25Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/education-zh-hant/</loc>
-        <lastmod>2020-07-20T14:54:31.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/data-and-tools/</loc>
+        <lastmod>2020-11-14T14:33:25Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/essential-workforce-ar/</loc>
-        <lastmod>2020-07-08T15:05:35.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/discrimination/</loc>
+        <lastmod>2021-01-05T19:18:33Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/essential-workforce-es/</loc>
-        <lastmod>2020-07-08T15:05:35.000Z</lastmod>
+        <loc>https://covid19.ca.gov/es/discrimination/</loc>
+        <lastmod>2021-01-05T19:18:33Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/essential-workforce-ko/</loc>
-        <lastmod>2020-07-08T15:05:35.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/discrimination/</loc>
+        <lastmod>2021-01-05T19:18:33Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/essential-workforce-tl/</loc>
-        <lastmod>2020-07-08T15:05:35.000Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/discrimination/</loc>
+        <lastmod>2021-01-05T19:18:33Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/essential-workforce-vi/</loc>
-        <lastmod>2020-07-08T15:05:35.000Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/discrimination/</loc>
+        <lastmod>2021-01-05T19:18:33Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/essential-workforce-zh-hans/</loc>
-        <lastmod>2020-07-08T15:05:35.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/discrimination/</loc>
+        <lastmod>2021-01-05T19:18:33Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/essential-workforce-zh-hant/</loc>
-        <lastmod>2020-07-08T15:05:35.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/discrimination/</loc>
+        <lastmod>2021-01-05T19:18:33Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/food-resources-ar/</loc>
-        <lastmod>2020-05-07T00:26:28Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/distance-learning/</loc>
+        <lastmod>2021-01-16T00:43:32Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/food-resources-es/</loc>
-        <lastmod>2020-05-07T00:26:28Z</lastmod>
+        <loc>https://covid19.ca.gov/es/distance-learning/</loc>
+        <lastmod>2021-01-16T00:43:32Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/food-resources-ko/</loc>
-        <lastmod>2020-05-07T00:26:28Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/distance-learning/</loc>
+        <lastmod>2021-01-16T00:43:32Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/food-resources-tl/</loc>
-        <lastmod>2020-05-07T00:26:28Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/distance-learning/</loc>
+        <lastmod>2021-01-16T00:43:32Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/food-resources-vi/</loc>
-        <lastmod>2020-05-07T00:26:28Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/distance-learning/</loc>
+        <lastmod>2021-01-16T00:43:32Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/food-resources-zh-hans/</loc>
-        <lastmod>2020-05-07T00:26:28Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/distance-learning/</loc>
+        <lastmod>2021-01-16T00:43:32Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/food-resources-zh-hant/</loc>
-        <lastmod>2020-05-07T00:26:28Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/distance-learning/</loc>
+        <lastmod>2021-01-16T00:43:32Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/get-financial-help-ar/</loc>
-        <lastmod>2020-06-19T10:24:10.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/education/</loc>
+        <lastmod>2021-01-14T21:21:45Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/get-financial-help-es/</loc>
-        <lastmod>2020-06-19T10:24:10.000Z</lastmod>
+        <loc>https://covid19.ca.gov/es/education/</loc>
+        <lastmod>2021-01-14T21:21:45Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/get-financial-help-ko/</loc>
-        <lastmod>2020-06-19T10:24:10.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/education/</loc>
+        <lastmod>2021-01-14T21:21:45Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/get-financial-help-tl/</loc>
-        <lastmod>2020-06-19T10:24:10.000Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/education/</loc>
+        <lastmod>2021-01-14T21:21:45Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/get-financial-help-vi/</loc>
-        <lastmod>2020-06-19T10:24:10.000Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/education/</loc>
+        <lastmod>2021-01-14T21:21:45Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/get-financial-help-zh-hans/</loc>
-        <lastmod>2020-06-19T10:24:10.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/education/</loc>
+        <lastmod>2021-01-14T21:21:45Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/get-financial-help-zh-hant/</loc>
-        <lastmod>2020-06-19T10:24:10.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/education/</loc>
+        <lastmod>2021-01-14T21:21:45Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/get-local-information-ar/</loc>
-        <lastmod>2020-07-10T13:50:32.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/equity/</loc>
+        <lastmod>2021-01-26T00:16:23Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/get-local-information-es/</loc>
-        <lastmod>2020-07-10T13:50:32.000Z</lastmod>
+        <loc>https://covid19.ca.gov/es/equity/</loc>
+        <lastmod>2021-01-26T00:16:23Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/get-local-information-ko/</loc>
-        <lastmod>2020-07-10T13:50:32.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/equity/</loc>
+        <lastmod>2021-01-26T00:16:23Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/get-local-information-tl/</loc>
-        <lastmod>2020-07-10T13:50:32.000Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/equity/</loc>
+        <lastmod>2021-01-26T00:16:23Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/get-local-information-vi/</loc>
-        <lastmod>2020-07-10T13:50:32.000Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/equity/</loc>
+        <lastmod>2021-01-26T00:16:23Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/get-local-information-zh-hans/</loc>
-        <lastmod>2020-07-10T13:50:38.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/equity/</loc>
+        <lastmod>2021-01-26T00:16:23Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/get-local-information-zh-hant/</loc>
-        <lastmod>2020-07-10T13:50:38.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/equity/</loc>
+        <lastmod>2021-01-26T00:16:23Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/guide-immigrant-californians-ar/</loc>
-        <lastmod>2020-07-09T22:10:44.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/essential-workforce/</loc>
+        <lastmod>2020-11-25T23:26:01Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/guide-immigrant-californians-es/</loc>
-        <lastmod>2020-07-09T22:10:44.000Z</lastmod>
+        <loc>https://covid19.ca.gov/es/essential-workforce/</loc>
+        <lastmod>2020-11-25T23:26:01Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/guide-immigrant-californians-ko/</loc>
-        <lastmod>2020-07-09T22:10:44.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/essential-workforce/</loc>
+        <lastmod>2020-11-25T23:26:01Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/guide-immigrant-californians-tl/</loc>
-        <lastmod>2020-07-09T22:10:44.000Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/essential-workforce/</loc>
+        <lastmod>2020-11-25T23:26:01Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/guide-immigrant-californians-vi/</loc>
-        <lastmod>2020-07-09T22:10:44.000Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/essential-workforce/</loc>
+        <lastmod>2020-11-25T23:26:01Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/guide-immigrant-californians-zh-hans/</loc>
-        <lastmod>2020-07-09T22:10:44.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/essential-workforce/</loc>
+        <lastmod>2020-11-25T23:26:01Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/guide-immigrant-californians-zh-hant/</loc>
-        <lastmod>2020-07-09T22:10:44.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/essential-workforce/</loc>
+        <lastmod>2020-11-25T23:26:01Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/healthcare-ar/</loc>
-        <lastmod>2020-07-20T15:12:04.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/food-resources/</loc>
+        <lastmod>2021-02-01T22:14:16Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/healthcare-es/</loc>
-        <lastmod>2020-07-20T15:12:04.000Z</lastmod>
+        <loc>https://covid19.ca.gov/es/food-resources/</loc>
+        <lastmod>2021-02-01T22:14:16Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/healthcare-ko/</loc>
-        <lastmod>2020-07-20T15:12:04.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/food-resources/</loc>
+        <lastmod>2021-02-01T22:14:16Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/healthcare-tl/</loc>
-        <lastmod>2020-07-20T15:12:04.000Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/food-resources/</loc>
+        <lastmod>2021-02-01T22:14:16Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/healthcare-vi/</loc>
-        <lastmod>2020-07-20T15:12:04.000Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/food-resources/</loc>
+        <lastmod>2021-02-01T22:14:16Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/healthcare-zh-hans/</loc>
-        <lastmod>2020-07-20T15:12:04.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/food-resources/</loc>
+        <lastmod>2021-02-01T22:14:16Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/healthcare-zh-hant/</loc>
-        <lastmod>2020-07-20T15:12:04.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/food-resources/</loc>
+        <lastmod>2021-02-01T22:14:16Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/healthcorps-ar/</loc>
-        <lastmod>2020-07-10T13:50:32.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/get-financial-help/</loc>
+        <lastmod>2021-02-02T20:25:03Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/healthcorps-es/</loc>
-        <lastmod>2020-07-10T13:50:32.000Z</lastmod>
+        <loc>https://covid19.ca.gov/es/get-financial-help/</loc>
+        <lastmod>2021-02-02T20:25:03Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/healthcorps-ko/</loc>
-        <lastmod>2020-07-10T13:50:32.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/get-financial-help/</loc>
+        <lastmod>2021-02-02T20:25:03Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/healthcorps-tl/</loc>
-        <lastmod>2020-07-10T13:50:32.000Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/get-financial-help/</loc>
+        <lastmod>2021-02-02T20:25:03Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/healthcorps-vi/</loc>
-        <lastmod>2020-07-10T13:50:38.000Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/get-financial-help/</loc>
+        <lastmod>2021-02-02T20:25:03Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/healthcorps-zh-hans/</loc>
-        <lastmod>2020-07-10T13:50:38.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/get-financial-help/</loc>
+        <lastmod>2021-02-02T20:25:03Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/healthcorps-zh-hant/</loc>
-        <lastmod>2020-07-10T13:50:38.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/get-financial-help/</loc>
+        <lastmod>2021-02-02T20:25:03Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/hotel-rooms-for-california-healthcare-workers-ar/</loc>
-        <lastmod>2020-06-19T10:31:40.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/get-local-information/</loc>
+        <lastmod>2021-01-20T00:19:44Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/hotel-rooms-for-california-healthcare-workers-es/</loc>
-        <lastmod>2020-06-19T10:31:40.000Z</lastmod>
+        <loc>https://covid19.ca.gov/es/get-local-information/</loc>
+        <lastmod>2021-01-20T00:19:44Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/hotel-rooms-for-california-healthcare-workers-ko/</loc>
-        <lastmod>2020-06-19T10:31:40.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/get-local-information/</loc>
+        <lastmod>2021-01-20T00:19:44Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/hotel-rooms-for-california-healthcare-workers-tl/</loc>
-        <lastmod>2020-06-19T10:31:40.000Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/get-local-information/</loc>
+        <lastmod>2021-01-20T00:19:44Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/hotel-rooms-for-california-healthcare-workers-vi/</loc>
-        <lastmod>2020-06-19T10:31:40.000Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/get-local-information/</loc>
+        <lastmod>2021-01-20T00:19:44Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/hotel-rooms-for-california-healthcare-workers-zh-hans/</loc>
-        <lastmod>2020-06-19T10:31:40.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/get-local-information/</loc>
+        <lastmod>2021-01-20T00:19:44Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/hotel-rooms-for-california-healthcare-workers-zh-hant/</loc>
-        <lastmod>2020-06-19T10:31:40.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/get-local-information/</loc>
+        <lastmod>2021-01-20T00:19:44Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/hotline-ar/</loc>
-        <lastmod>2020-06-20T06:05:14.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/get-tested/</loc>
+        <lastmod>2021-02-02T01:37:51Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/hotline-es/</loc>
-        <lastmod>2020-06-20T06:05:14.000Z</lastmod>
+        <loc>https://covid19.ca.gov/es/get-tested/</loc>
+        <lastmod>2021-02-02T01:37:51Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/hotline-ko/</loc>
-        <lastmod>2020-06-20T06:05:14.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/get-tested/</loc>
+        <lastmod>2021-02-02T01:37:51Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/hotline-tl/</loc>
-        <lastmod>2020-06-20T06:05:14.000Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/get-tested/</loc>
+        <lastmod>2021-02-02T01:37:51Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/hotline-vi/</loc>
-        <lastmod>2020-06-20T06:05:14.000Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/get-tested/</loc>
+        <lastmod>2021-02-02T01:37:51Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/hotline-zh-hans/</loc>
-        <lastmod>2020-06-20T06:05:14.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/get-tested/</loc>
+        <lastmod>2021-02-02T01:37:51Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/hotline-zh-hant/</loc>
-        <lastmod>2020-06-20T06:05:14.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/get-tested/</loc>
+        <lastmod>2021-02-02T01:37:51Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/housing-and-homelessness-ar/</loc>
-        <lastmod>2020-07-06T15:11:42.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/guidance-languages/</loc>
+        <lastmod>2020-10-13T00:18:53Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/housing-and-homelessness-es/</loc>
-        <lastmod>2020-07-06T15:11:42.000Z</lastmod>
+        <loc>https://covid19.ca.gov/es/guidance-languages/</loc>
+        <lastmod>2020-10-13T00:18:53Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/housing-and-homelessness-ko/</loc>
-        <lastmod>2020-07-06T15:11:42.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/guidance-languages/</loc>
+        <lastmod>2020-10-13T00:18:53Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/housing-and-homelessness-tl/</loc>
-        <lastmod>2020-07-06T15:11:42.000Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/guidance-languages/</loc>
+        <lastmod>2020-10-13T00:18:53Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/housing-and-homelessness-vi/</loc>
-        <lastmod>2020-07-06T15:11:42.000Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/guidance-languages/</loc>
+        <lastmod>2020-10-13T00:18:53Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/housing-and-homelessness-zh-hans/</loc>
-        <lastmod>2020-07-06T15:11:42.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/guidance-languages/</loc>
+        <lastmod>2020-10-13T00:18:53Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/housing-and-homelessness-zh-hant/</loc>
-        <lastmod>2020-07-06T15:11:42.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/guidance-languages/</loc>
+        <lastmod>2020-10-13T00:18:53Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/industry-guidance-ar/</loc>
-        <lastmod>2020-07-20T14:55:07.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/guide-immigrant-californians/</loc>
+        <lastmod>2021-01-26T19:01:20Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/industry-guidance-es/</loc>
-        <lastmod>2020-07-20T14:55:07.000Z</lastmod>
+        <loc>https://covid19.ca.gov/es/guide-immigrant-californians/</loc>
+        <lastmod>2021-01-26T19:01:20Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/industry-guidance-ko/</loc>
-        <lastmod>2020-07-20T14:55:07.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/guide-immigrant-californians/</loc>
+        <lastmod>2021-01-26T19:01:20Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/industry-guidance-tl/</loc>
-        <lastmod>2020-07-20T14:55:07.000Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/guide-immigrant-californians/</loc>
+        <lastmod>2021-01-26T19:01:20Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/industry-guidance-vi/</loc>
-        <lastmod>2020-07-20T14:55:07.000Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/guide-immigrant-californians/</loc>
+        <lastmod>2021-01-26T19:01:20Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/industry-guidance-zh-hans/</loc>
-        <lastmod>2020-07-20T14:55:07.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/guide-immigrant-californians/</loc>
+        <lastmod>2021-01-26T19:01:20Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/industry-guidance-zh-hant/</loc>
-        <lastmod>2020-07-20T14:55:07.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/guide-immigrant-californians/</loc>
+        <lastmod>2021-01-26T19:01:20Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/manage-stress-for-health-ar/</loc>
-        <lastmod>2020-07-07T22:01:44.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/healthcare/</loc>
+        <lastmod>2021-01-26T16:00:37Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/manage-stress-for-health-es/</loc>
-        <lastmod>2020-07-07T22:01:44.000Z</lastmod>
+        <loc>https://covid19.ca.gov/es/healthcare/</loc>
+        <lastmod>2021-01-26T16:00:37Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/manage-stress-for-health-ko/</loc>
-        <lastmod>2020-07-07T22:01:44.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/healthcare/</loc>
+        <lastmod>2021-01-26T16:00:37Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/manage-stress-for-health-tl/</loc>
-        <lastmod>2020-07-07T22:01:44.000Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/healthcare/</loc>
+        <lastmod>2021-01-26T16:00:37Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/manage-stress-for-health-vi/</loc>
-        <lastmod>2020-07-07T22:01:44.000Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/healthcare/</loc>
+        <lastmod>2021-01-26T16:00:37Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/manage-stress-for-health-zh-hans/</loc>
-        <lastmod>2020-07-07T22:01:44.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/healthcare/</loc>
+        <lastmod>2021-01-26T16:00:37Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/manage-stress-for-health-zh-hant/</loc>
-        <lastmod>2020-07-07T22:01:44.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/healthcare/</loc>
+        <lastmod>2021-01-26T16:00:37Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/masks-and-ppe-ar/</loc>
-        <lastmod>2020-07-13T09:17:07.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/healthcorps/</loc>
+        <lastmod>2020-12-08T13:20:40Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/masks-and-ppe-es/</loc>
-        <lastmod>2020-07-13T09:17:07.000Z</lastmod>
+        <loc>https://covid19.ca.gov/es/healthcorps/</loc>
+        <lastmod>2020-12-08T13:20:40Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/masks-and-ppe-ko/</loc>
-        <lastmod>2020-07-13T09:17:07.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/healthcorps/</loc>
+        <lastmod>2020-12-08T13:20:40Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/masks-and-ppe-tl/</loc>
-        <lastmod>2020-07-13T09:17:07.000Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/healthcorps/</loc>
+        <lastmod>2020-12-08T13:20:40Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/masks-and-ppe-vi/</loc>
-        <lastmod>2020-07-13T09:17:07.000Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/healthcorps/</loc>
+        <lastmod>2020-12-08T13:20:40Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/masks-and-ppe-zh-hans/</loc>
-        <lastmod>2020-07-13T09:17:07.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/healthcorps/</loc>
+        <lastmod>2020-12-08T13:20:40Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/masks-and-ppe-zh-hant/</loc>
-        <lastmod>2020-07-13T09:17:07.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/healthcorps/</loc>
+        <lastmod>2020-12-08T13:20:40Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/more-ways-to-help-ar/</loc>
-        <lastmod>2020-06-25T12:21:39.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/help-for-seniors/</loc>
+        <lastmod>2020-10-16T15:02:14Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/more-ways-to-help-es/</loc>
-        <lastmod>2020-06-25T12:21:39.000Z</lastmod>
+        <loc>https://covid19.ca.gov/es/help-for-seniors/</loc>
+        <lastmod>2020-10-16T15:02:14Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/more-ways-to-help-ko/</loc>
-        <lastmod>2020-06-25T12:21:39.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/help-for-seniors/</loc>
+        <lastmod>2020-10-16T15:02:14Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/more-ways-to-help-tl/</loc>
-        <lastmod>2020-06-25T12:21:39.000Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/help-for-seniors/</loc>
+        <lastmod>2020-10-16T15:02:14Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/more-ways-to-help-vi/</loc>
-        <lastmod>2020-06-25T12:21:39.000Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/help-for-seniors/</loc>
+        <lastmod>2020-10-16T15:02:14Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/more-ways-to-help-zh-hans/</loc>
-        <lastmod>2020-06-25T12:21:39.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/help-for-seniors/</loc>
+        <lastmod>2020-10-16T15:02:14Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/more-ways-to-help-zh-hant/</loc>
-        <lastmod>2020-06-25T12:21:39.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/help-for-seniors/</loc>
+        <lastmod>2020-10-16T15:02:14Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/plasma-ar/</loc>
-        <lastmod>2020-06-29T11:01:31.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/holidays/</loc>
+        <lastmod>2021-02-03T21:38:33Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/plasma-es/</loc>
-        <lastmod>2020-06-29T11:01:31.000Z</lastmod>
+        <loc>https://covid19.ca.gov/es/holidays/</loc>
+        <lastmod>2021-02-03T21:38:33Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/plasma-ko/</loc>
-        <lastmod>2020-06-29T11:01:31.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/holidays/</loc>
+        <lastmod>2021-02-03T21:38:33Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/plasma-tl/</loc>
-        <lastmod>2020-06-29T11:01:31.000Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/holidays/</loc>
+        <lastmod>2021-02-03T21:38:33Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/plasma-vi/</loc>
-        <lastmod>2020-06-29T11:01:31.000Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/holidays/</loc>
+        <lastmod>2021-02-03T21:38:33Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/plasma-zh-hans/</loc>
-        <lastmod>2020-06-29T11:01:31.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/holidays/</loc>
+        <lastmod>2021-02-03T21:38:33Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/plasma-zh-hant/</loc>
-        <lastmod>2020-06-29T11:01:31.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/holidays/</loc>
+        <lastmod>2021-02-03T21:38:33Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/public-recreation-ar/</loc>
-        <lastmod>2020-06-12T13:05:27.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/hotel-rooms-for-california-healthcare-workers/</loc>
+        <lastmod>2021-02-01T22:25:23Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/public-recreation-es/</loc>
-        <lastmod>2020-06-12T13:05:27.000Z</lastmod>
+        <loc>https://covid19.ca.gov/es/hotel-rooms-for-california-healthcare-workers/</loc>
+        <lastmod>2021-02-01T22:25:23Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/public-recreation-ko/</loc>
-        <lastmod>2020-06-12T13:05:27.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/hotel-rooms-for-california-healthcare-workers/</loc>
+        <lastmod>2021-02-01T22:25:23Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/public-recreation-tl/</loc>
-        <lastmod>2020-06-12T13:05:27.000Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/hotel-rooms-for-california-healthcare-workers/</loc>
+        <lastmod>2021-02-01T22:25:23Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/public-recreation-vi/</loc>
-        <lastmod>2020-06-12T13:05:27.000Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/hotel-rooms-for-california-healthcare-workers/</loc>
+        <lastmod>2021-02-01T22:25:23Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/public-recreation-zh-hans/</loc>
-        <lastmod>2020-06-12T13:05:27.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/hotel-rooms-for-california-healthcare-workers/</loc>
+        <lastmod>2021-02-01T22:25:23Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/public-recreation-zh-hant/</loc>
-        <lastmod>2020-06-12T13:05:27.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/hotel-rooms-for-california-healthcare-workers/</loc>
+        <lastmod>2021-02-01T22:25:23Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/recovery-input-ar/</loc>
-        <lastmod>2020-05-08T15:34:58Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/hotline/</loc>
+        <lastmod>2020-12-10T18:07:08Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/recovery-input-es/</loc>
-        <lastmod>2020-05-08T15:34:58Z</lastmod>
+        <loc>https://covid19.ca.gov/es/hotline/</loc>
+        <lastmod>2020-12-10T18:07:08Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/recovery-input-ko/</loc>
-        <lastmod>2020-05-08T15:34:58Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/hotline/</loc>
+        <lastmod>2020-12-10T18:07:08Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/recovery-input-tl/</loc>
-        <lastmod>2020-05-08T15:34:58Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/hotline/</loc>
+        <lastmod>2020-12-10T18:07:08Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/recovery-input-vi/</loc>
-        <lastmod>2020-05-08T15:34:58Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/hotline/</loc>
+        <lastmod>2020-12-10T18:07:08Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/recovery-input-zh-hans/</loc>
-        <lastmod>2020-05-08T15:34:58Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/hotline/</loc>
+        <lastmod>2020-12-10T18:07:08Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/recovery-input-zh-hant/</loc>
-        <lastmod>2020-05-08T15:34:58Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/hotline/</loc>
+        <lastmod>2020-12-10T18:07:08Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/request-ppe-ar/</loc>
-        <lastmod>2020-07-13T09:14:13.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/housing-and-homelessness/</loc>
+        <lastmod>2021-01-30T01:32:11Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/request-ppe-es/</loc>
-        <lastmod>2020-07-13T09:14:13.000Z</lastmod>
+        <loc>https://covid19.ca.gov/es/housing-and-homelessness/</loc>
+        <lastmod>2021-01-30T01:32:11Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/request-ppe-ko/</loc>
-        <lastmod>2020-07-13T09:14:13.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/housing-and-homelessness/</loc>
+        <lastmod>2021-01-30T01:32:11Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/request-ppe-tl/</loc>
-        <lastmod>2020-07-13T09:14:13.000Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/housing-and-homelessness/</loc>
+        <lastmod>2021-01-30T01:32:11Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/request-ppe-vi/</loc>
-        <lastmod>2020-07-13T09:14:13.000Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/housing-and-homelessness/</loc>
+        <lastmod>2021-01-30T01:32:11Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/request-ppe-zh-hans/</loc>
-        <lastmod>2020-07-13T09:14:13.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/housing-and-homelessness/</loc>
+        <lastmod>2021-01-30T01:32:11Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/request-ppe-zh-hant/</loc>
-        <lastmod>2020-07-13T09:14:13.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/housing-and-homelessness/</loc>
+        <lastmod>2021-01-30T01:32:11Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/resources-for-emotional-support-and-well-being-ar/</loc>
-        <lastmod>2020-07-07T22:04:06.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/housing-for-agricultural-workers/</loc>
+        <lastmod>2021-02-03T23:42:55Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/resources-for-emotional-support-and-well-being-es/</loc>
-        <lastmod>2020-07-07T22:04:06.000Z</lastmod>
+        <loc>https://covid19.ca.gov/es/housing-for-agricultural-workers/</loc>
+        <lastmod>2021-02-03T23:42:55Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/resources-for-emotional-support-and-well-being-ko/</loc>
-        <lastmod>2020-07-07T22:04:06.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/housing-for-agricultural-workers/</loc>
+        <lastmod>2021-02-03T23:42:55Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/resources-for-emotional-support-and-well-being-tl/</loc>
-        <lastmod>2020-07-07T22:04:06.000Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/housing-for-agricultural-workers/</loc>
+        <lastmod>2021-02-03T23:42:55Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/resources-for-emotional-support-and-well-being-vi/</loc>
-        <lastmod>2020-07-07T22:04:06.000Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/housing-for-agricultural-workers/</loc>
+        <lastmod>2021-02-03T23:42:55Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/resources-for-emotional-support-and-well-being-zh-hans/</loc>
-        <lastmod>2020-07-07T22:04:06.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/housing-for-agricultural-workers/</loc>
+        <lastmod>2021-02-03T23:42:55Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/resources-for-emotional-support-and-well-being-zh-hant/</loc>
-        <lastmod>2020-07-07T22:04:06.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/housing-for-agricultural-workers/</loc>
+        <lastmod>2021-02-03T23:42:55Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/restaurants-deliver-home-meals-for-seniors-ar/</loc>
-        <lastmod>2020-07-13T09:17:32.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/industry-guidance/</loc>
+        <lastmod>2021-02-03T21:09:55Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/restaurants-deliver-home-meals-for-seniors-es/</loc>
-        <lastmod>2020-07-13T09:17:32.000Z</lastmod>
+        <loc>https://covid19.ca.gov/es/industry-guidance/</loc>
+        <lastmod>2021-02-03T21:09:55Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/restaurants-deliver-home-meals-for-seniors-ko/</loc>
-        <lastmod>2020-07-13T09:17:32.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/industry-guidance/</loc>
+        <lastmod>2021-02-03T21:09:55Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/restaurants-deliver-home-meals-for-seniors-tl/</loc>
-        <lastmod>2020-07-13T09:17:32.000Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/industry-guidance/</loc>
+        <lastmod>2021-02-03T21:09:55Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/restaurants-deliver-home-meals-for-seniors-vi/</loc>
-        <lastmod>2020-07-13T09:17:32.000Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/industry-guidance/</loc>
+        <lastmod>2021-02-03T21:09:55Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/restaurants-deliver-home-meals-for-seniors-zh-hans/</loc>
-        <lastmod>2020-07-13T09:17:32.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/industry-guidance/</loc>
+        <lastmod>2021-02-03T21:09:55Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/restaurants-deliver-home-meals-for-seniors-zh-hant/</loc>
-        <lastmod>2020-07-13T09:17:32.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/industry-guidance/</loc>
+        <lastmod>2021-02-03T21:09:55Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/roadmap-ar/</loc>
-        <lastmod>2020-06-22T13:43:00.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/manage-stress-for-health/</loc>
+        <lastmod>2021-02-04T21:53:39Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/roadmap-counties-ar/</loc>
-        <lastmod>2020-07-17T13:44:54.000Z</lastmod>
+        <loc>https://covid19.ca.gov/es/manage-stress-for-health/</loc>
+        <lastmod>2021-02-04T21:53:39Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/roadmap-counties-es/</loc>
-        <lastmod>2020-07-17T13:44:54.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/manage-stress-for-health/</loc>
+        <lastmod>2021-02-04T21:53:39Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/roadmap-counties-ko/</loc>
-        <lastmod>2020-07-17T13:44:54.000Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/manage-stress-for-health/</loc>
+        <lastmod>2021-02-04T21:53:39Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/roadmap-counties-tl/</loc>
-        <lastmod>2020-07-17T13:44:54.000Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/manage-stress-for-health/</loc>
+        <lastmod>2021-02-04T21:53:39Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/roadmap-counties-vi/</loc>
-        <lastmod>2020-07-17T13:44:54.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/manage-stress-for-health/</loc>
+        <lastmod>2021-02-04T21:53:39Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/roadmap-counties-zh-hans/</loc>
-        <lastmod>2020-07-17T13:44:54.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/manage-stress-for-health/</loc>
+        <lastmod>2021-02-04T21:53:39Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/roadmap-counties-zh-hant/</loc>
-        <lastmod>2020-07-17T13:44:54.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/masks-and-ppe/</loc>
+        <lastmod>2021-02-02T23:09:45Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/roadmap-es/</loc>
-        <lastmod>2020-06-22T13:43:00.000Z</lastmod>
+        <loc>https://covid19.ca.gov/es/masks-and-ppe/</loc>
+        <lastmod>2021-02-02T23:09:45Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/roadmap-ko/</loc>
-        <lastmod>2020-06-22T13:43:00.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/masks-and-ppe/</loc>
+        <lastmod>2021-02-02T23:09:45Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/roadmap-tl/</loc>
-        <lastmod>2020-06-22T13:43:00.000Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/masks-and-ppe/</loc>
+        <lastmod>2021-02-02T23:09:45Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/roadmap-vi/</loc>
-        <lastmod>2020-06-22T13:43:00.000Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/masks-and-ppe/</loc>
+        <lastmod>2021-02-02T23:09:45Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/roadmap-zh-hans/</loc>
-        <lastmod>2020-06-22T13:43:00.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/masks-and-ppe/</loc>
+        <lastmod>2021-02-02T23:09:45Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/roadmap-zh-hant/</loc>
-        <lastmod>2020-06-22T13:43:00.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/masks-and-ppe/</loc>
+        <lastmod>2021-02-02T23:09:45Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/search-ar/</loc>
-        <lastmod>2020-06-17T21:24:38.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/plasma/</loc>
+        <lastmod>2020-10-19T21:53:48Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/search-es/</loc>
-        <lastmod>2020-06-17T21:24:38.000Z</lastmod>
+        <loc>https://covid19.ca.gov/es/plasma/</loc>
+        <lastmod>2020-10-19T21:53:48Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/search-ko/</loc>
-        <lastmod>2020-06-17T21:24:38.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/plasma/</loc>
+        <lastmod>2020-10-19T21:53:48Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/search-tl/</loc>
-        <lastmod>2020-06-17T21:24:38.000Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/plasma/</loc>
+        <lastmod>2020-10-19T21:53:48Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/search-vi/</loc>
-        <lastmod>2020-06-17T21:24:38.000Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/plasma/</loc>
+        <lastmod>2020-10-19T21:53:48Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/search-zh-hans/</loc>
-        <lastmod>2020-06-17T21:24:38.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/plasma/</loc>
+        <lastmod>2020-10-19T21:53:48Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/search-zh-hant/</loc>
-        <lastmod>2020-06-17T21:24:38.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/plasma/</loc>
+        <lastmod>2020-10-19T21:53:48Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/sign-up-for-county-alerts-ar/</loc>
-        <lastmod>2020-06-19T14:56:11.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/public-recreation/</loc>
+        <lastmod>2020-11-13T20:57:56Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/sign-up-for-county-alerts-es/</loc>
-        <lastmod>2020-06-19T14:56:11.000Z</lastmod>
+        <loc>https://covid19.ca.gov/es/public-recreation/</loc>
+        <lastmod>2020-11-13T20:57:56Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/sign-up-for-county-alerts-ko/</loc>
-        <lastmod>2020-06-19T14:56:11.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/public-recreation/</loc>
+        <lastmod>2020-11-13T20:57:56Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/sign-up-for-county-alerts-tl/</loc>
-        <lastmod>2020-06-19T14:56:11.000Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/public-recreation/</loc>
+        <lastmod>2020-11-13T20:57:56Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/sign-up-for-county-alerts-vi/</loc>
-        <lastmod>2020-06-19T14:56:11.000Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/public-recreation/</loc>
+        <lastmod>2020-11-13T20:57:56Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/sign-up-for-county-alerts-zh-hans/</loc>
-        <lastmod>2020-06-19T14:56:11.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/public-recreation/</loc>
+        <lastmod>2020-11-13T20:57:56Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/sign-up-for-county-alerts-zh-hant/</loc>
-        <lastmod>2020-06-19T14:56:11.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/public-recreation/</loc>
+        <lastmod>2020-11-13T20:57:56Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/stay-home-except-for-essential-needs-ar/</loc>
-        <lastmod>2020-07-17T13:44:19.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/request-ppe/</loc>
+        <lastmod>2020-09-14T15:00:10.000Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/stay-home-except-for-essential-needs-es/</loc>
-        <lastmod>2020-07-17T13:44:19.000Z</lastmod>
+        <loc>https://covid19.ca.gov/es/request-ppe/</loc>
+        <lastmod>2020-09-14T15:00:10.000Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/stay-home-except-for-essential-needs-ko/</loc>
-        <lastmod>2020-07-17T13:44:19.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/request-ppe/</loc>
+        <lastmod>2020-09-14T15:00:10.000Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/stay-home-except-for-essential-needs-tl/</loc>
-        <lastmod>2020-07-17T13:44:19.000Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/request-ppe/</loc>
+        <lastmod>2020-09-14T15:00:10.000Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/stay-home-except-for-essential-needs-vi/</loc>
-        <lastmod>2020-07-17T13:44:19.000Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/request-ppe/</loc>
+        <lastmod>2020-09-14T15:00:10.000Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/stay-home-except-for-essential-needs-zh-hans/</loc>
-        <lastmod>2020-07-17T13:44:19.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/request-ppe/</loc>
+        <lastmod>2020-09-14T15:00:10.000Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/stay-home-except-for-essential-needs-zh-hant/</loc>
-        <lastmod>2020-07-17T13:44:19.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/request-ppe/</loc>
+        <lastmod>2020-09-14T15:00:10.000Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/symptoms-and-risks-ar/</loc>
-        <lastmod>2020-07-06T22:03:05.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/resources-for-emotional-support-and-well-being/</loc>
+        <lastmod>2020-12-18T21:14:43Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/symptoms-and-risks-es/</loc>
-        <lastmod>2020-07-06T22:03:05.000Z</lastmod>
+        <loc>https://covid19.ca.gov/es/resources-for-emotional-support-and-well-being/</loc>
+        <lastmod>2020-12-18T21:14:43Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/symptoms-and-risks-ko/</loc>
-        <lastmod>2020-07-06T22:03:05.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/resources-for-emotional-support-and-well-being/</loc>
+        <lastmod>2020-12-18T21:14:43Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/symptoms-and-risks-tl/</loc>
-        <lastmod>2020-07-06T22:03:05.000Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/resources-for-emotional-support-and-well-being/</loc>
+        <lastmod>2020-12-18T21:14:43Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/symptoms-and-risks-vi/</loc>
-        <lastmod>2020-07-06T22:03:05.000Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/resources-for-emotional-support-and-well-being/</loc>
+        <lastmod>2020-12-18T21:14:43Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/symptoms-and-risks-zh-hans/</loc>
-        <lastmod>2020-07-06T22:03:05.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/resources-for-emotional-support-and-well-being/</loc>
+        <lastmod>2020-12-18T21:14:43Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/symptoms-and-risks-zh-hant/</loc>
-        <lastmod>2020-07-06T22:03:05.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/resources-for-emotional-support-and-well-being/</loc>
+        <lastmod>2020-12-18T21:14:43Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/taxes-ar/</loc>
-        <lastmod>2020-05-28T13:54:52.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/restaurants-deliver-home-meals-for-seniors/</loc>
+        <lastmod>2021-01-11T17:50:42Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/taxes-es/</loc>
-        <lastmod>2020-05-28T13:54:52.000Z</lastmod>
+        <loc>https://covid19.ca.gov/es/restaurants-deliver-home-meals-for-seniors/</loc>
+        <lastmod>2021-01-11T17:50:42Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/taxes-ko/</loc>
-        <lastmod>2020-05-28T13:54:52.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/restaurants-deliver-home-meals-for-seniors/</loc>
+        <lastmod>2021-01-11T17:50:42Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/taxes-tl/</loc>
-        <lastmod>2020-05-28T13:54:52.000Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/restaurants-deliver-home-meals-for-seniors/</loc>
+        <lastmod>2021-01-11T17:50:42Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/taxes-vi/</loc>
-        <lastmod>2020-05-28T13:54:52.000Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/restaurants-deliver-home-meals-for-seniors/</loc>
+        <lastmod>2021-01-11T17:50:42Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/taxes-zh-hans/</loc>
-        <lastmod>2020-05-28T13:54:52.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/restaurants-deliver-home-meals-for-seniors/</loc>
+        <lastmod>2021-01-11T17:50:42Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/taxes-zh-hant/</loc>
-        <lastmod>2020-05-28T13:54:52.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/restaurants-deliver-home-meals-for-seniors/</loc>
+        <lastmod>2021-01-11T17:50:42Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/telehealth-ar/</loc>
-        <lastmod>2020-06-20T06:07:35.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/safer-economy/</loc>
+        <lastmod>2021-02-04T06:44:59Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/telehealth-es/</loc>
-        <lastmod>2020-06-20T06:07:35.000Z</lastmod>
+        <loc>https://covid19.ca.gov/es/safer-economy/</loc>
+        <lastmod>2021-02-04T06:44:59Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/telehealth-ko/</loc>
-        <lastmod>2020-06-20T06:07:35.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/safer-economy/</loc>
+        <lastmod>2021-02-04T06:44:59Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/telehealth-tl/</loc>
-        <lastmod>2020-06-20T06:07:35.000Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/safer-economy/</loc>
+        <lastmod>2021-02-04T06:44:59Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/telehealth-vi/</loc>
-        <lastmod>2020-06-20T06:07:35.000Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/safer-economy/</loc>
+        <lastmod>2021-02-04T06:44:59Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/telehealth-zh-hans/</loc>
-        <lastmod>2020-06-20T06:07:35.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/safer-economy/</loc>
+        <lastmod>2021-02-04T06:44:59Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/telehealth-zh-hant/</loc>
-        <lastmod>2020-06-20T06:07:35.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/safer-economy/</loc>
+        <lastmod>2021-02-04T06:44:59Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/testing-and-treatment-ar/</loc>
-        <lastmod>2020-07-17T13:43:14.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/state-dashboard/</loc>
+        <lastmod>2021-02-09T00:01:27.011Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/testing-and-treatment-es/</loc>
-        <lastmod>2020-07-17T13:43:14.000Z</lastmod>
+        <loc>https://covid19.ca.gov/es/state-dashboard/</loc>
+        <lastmod>2021-02-09T00:01:27.011Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/testing-and-treatment-ko/</loc>
-        <lastmod>2020-07-17T13:43:14.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/state-dashboard/</loc>
+        <lastmod>2021-02-09T00:01:27.011Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/testing-and-treatment-tl/</loc>
-        <lastmod>2020-07-17T13:43:14.000Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/state-dashboard/</loc>
+        <lastmod>2021-02-09T00:01:27.011Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/testing-and-treatment-vi/</loc>
-        <lastmod>2020-07-17T13:43:14.000Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/state-dashboard/</loc>
+        <lastmod>2021-02-09T00:01:27.011Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/testing-and-treatment-zh-hans/</loc>
-        <lastmod>2020-07-17T13:43:14.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/state-dashboard/</loc>
+        <lastmod>2021-02-09T00:01:27.011Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/testing-and-treatment-zh-hant/</loc>
-        <lastmod>2020-07-17T13:43:14.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/state-dashboard/</loc>
+        <lastmod>2021-02-09T00:01:27.011Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/translate-ar/</loc>
-        <lastmod>2020-06-17T13:37:11.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/stay-home-except-for-essential-needs/</loc>
+        <lastmod>2021-02-04T02:09:09Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/translate-es/</loc>
-        <lastmod>2020-06-17T13:37:11.000Z</lastmod>
+        <loc>https://covid19.ca.gov/es/stay-home-except-for-essential-needs/</loc>
+        <lastmod>2021-02-04T02:09:09Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/translate-ko/</loc>
-        <lastmod>2020-06-17T13:37:11.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/stay-home-except-for-essential-needs/</loc>
+        <lastmod>2021-02-04T02:09:09Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/translate-tl/</loc>
-        <lastmod>2020-06-17T13:37:11.000Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/stay-home-except-for-essential-needs/</loc>
+        <lastmod>2021-02-04T02:09:09Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/translate-vi/</loc>
-        <lastmod>2020-06-17T13:37:11.000Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/stay-home-except-for-essential-needs/</loc>
+        <lastmod>2021-02-04T02:09:09Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/translate-zh-hans/</loc>
-        <lastmod>2020-06-17T13:37:11.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/stay-home-except-for-essential-needs/</loc>
+        <lastmod>2021-02-04T02:09:09Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/translate-zh-hant/</loc>
-        <lastmod>2020-06-17T13:37:11.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/stay-home-except-for-essential-needs/</loc>
+        <lastmod>2021-02-04T02:09:09Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/workers-ar/</loc>
-        <lastmod>2020-07-10T13:50:06.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/symptoms-and-risks/</loc>
+        <lastmod>2020-11-24T13:26:13Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/workers-es/</loc>
-        <lastmod>2020-07-10T13:50:06.000Z</lastmod>
+        <loc>https://covid19.ca.gov/es/symptoms-and-risks/</loc>
+        <lastmod>2020-11-24T13:26:13Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/workers-ko/</loc>
-        <lastmod>2020-07-10T13:50:06.000Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/symptoms-and-risks/</loc>
+        <lastmod>2020-11-24T13:26:13Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/workers-tl/</loc>
-        <lastmod>2020-07-10T13:50:06.000Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/symptoms-and-risks/</loc>
+        <lastmod>2020-11-24T13:26:13Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/workers-vi/</loc>
-        <lastmod>2020-07-10T13:50:06.000Z</lastmod>
+        <loc>https://covid19.ca.gov/vi/symptoms-and-risks/</loc>
+        <lastmod>2020-11-24T13:26:13Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/workers-zh-hans/</loc>
-        <lastmod>2020-07-10T13:50:06.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/symptoms-and-risks/</loc>
+        <lastmod>2020-11-24T13:26:13Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/workers-zh-hant/</loc>
-        <lastmod>2020-07-10T13:50:06.000Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hant/symptoms-and-risks/</loc>
+        <lastmod>2020-11-24T13:26:13Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ar/taxes/</loc>
+        <lastmod>2021-01-22T18:57:28Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/es/taxes/</loc>
+        <lastmod>2021-01-22T18:57:28Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ko/taxes/</loc>
+        <lastmod>2021-01-22T18:57:28Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/tl/taxes/</loc>
+        <lastmod>2021-01-22T18:57:28Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/vi/taxes/</loc>
+        <lastmod>2021-01-22T18:57:28Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hans/taxes/</loc>
+        <lastmod>2021-01-22T18:57:28Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hant/taxes/</loc>
+        <lastmod>2021-01-22T18:57:28Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ar/testing-and-treatment/</loc>
+        <lastmod>2020-09-22T22:49:21.000Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/es/testing-and-treatment/</loc>
+        <lastmod>2020-09-22T22:49:21.000Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ko/testing-and-treatment/</loc>
+        <lastmod>2020-09-22T22:49:21.000Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/tl/testing-and-treatment/</loc>
+        <lastmod>2020-09-22T22:49:21.000Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/vi/testing-and-treatment/</loc>
+        <lastmod>2020-09-22T22:49:21.000Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hans/testing-and-treatment/</loc>
+        <lastmod>2020-09-22T22:49:21.000Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hant/testing-and-treatment/</loc>
+        <lastmod>2020-09-22T22:49:21.000Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ar/translate/</loc>
+        <lastmod>2021-01-06T23:03:57Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/es/translate/</loc>
+        <lastmod>2021-01-06T23:03:57Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ko/translate/</loc>
+        <lastmod>2021-01-06T23:03:57Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/tl/translate/</loc>
+        <lastmod>2021-01-06T23:03:57Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/vi/translate/</loc>
+        <lastmod>2021-01-06T23:03:57Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hans/translate/</loc>
+        <lastmod>2021-01-06T23:03:57Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hant/translate/</loc>
+        <lastmod>2021-01-06T23:03:57Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ar/travel/</loc>
+        <lastmod>2021-02-02T19:58:46Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/es/travel/</loc>
+        <lastmod>2021-02-02T19:58:46Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ko/travel/</loc>
+        <lastmod>2021-02-02T19:58:46Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/tl/travel/</loc>
+        <lastmod>2021-02-02T19:58:46Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/vi/travel/</loc>
+        <lastmod>2021-02-02T19:58:46Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hans/travel/</loc>
+        <lastmod>2021-02-02T19:58:46Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hant/travel/</loc>
+        <lastmod>2021-02-02T19:58:46Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ar/treatment-for-covid-19/</loc>
+        <lastmod>2021-01-12T06:30:34Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/es/treatment-for-covid-19/</loc>
+        <lastmod>2021-01-12T06:30:34Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ko/treatment-for-covid-19/</loc>
+        <lastmod>2021-01-12T06:30:34Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/tl/treatment-for-covid-19/</loc>
+        <lastmod>2021-01-12T06:30:34Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/vi/treatment-for-covid-19/</loc>
+        <lastmod>2021-01-12T06:30:34Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hans/treatment-for-covid-19/</loc>
+        <lastmod>2021-01-12T06:30:34Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hant/treatment-for-covid-19/</loc>
+        <lastmod>2021-01-12T06:30:34Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ar/vaccines/</loc>
+        <lastmod>2021-02-02T19:20:13Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/es/vaccines/</loc>
+        <lastmod>2021-02-02T19:20:13Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ko/vaccines/</loc>
+        <lastmod>2021-02-02T19:20:13Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/tl/vaccines/</loc>
+        <lastmod>2021-02-02T19:20:13Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/vi/vaccines/</loc>
+        <lastmod>2021-02-02T19:20:13Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hans/vaccines/</loc>
+        <lastmod>2021-02-02T19:20:13Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hant/vaccines/</loc>
+        <lastmod>2021-02-02T19:20:13Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ar/workers/</loc>
+        <lastmod>2021-02-03T21:30:55Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/es/workers/</loc>
+        <lastmod>2021-02-03T21:30:55Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ko/workers/</loc>
+        <lastmod>2021-02-03T21:30:55Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/tl/workers/</loc>
+        <lastmod>2021-02-03T21:30:55Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/vi/workers/</loc>
+        <lastmod>2021-02-03T21:30:55Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hans/workers/</loc>
+        <lastmod>2021-02-03T21:30:55Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hant/workers/</loc>
+        <lastmod>2021-02-03T21:30:55Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/agency-response/</loc>
+        <lastmod>2020-11-26T01:45:16Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/business-and-employers/</loc>
-        <lastmod>2020-07-07T23:32:49Z</lastmod>
+        <lastmod>2021-01-22T17:01:18Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/care-in-senior-facilities/</loc>
-        <lastmod>2020-06-02T20:46:36Z</lastmod>
+        <lastmod>2021-01-07T17:02:01Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/childcare/</loc>
-        <lastmod>2020-07-03T21:15:36Z</lastmod>
+        <lastmod>2021-01-29T18:47:06Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/contact-tracing/</loc>
-        <lastmod>2020-07-14T21:38:27Z</lastmod>
+        <lastmod>2021-01-20T20:14:30Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/contracts/</loc>
-        <lastmod>2020-06-30T22:08:14Z</lastmod>
+        <lastmod>2021-01-07T17:12:28Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/data-and-tools/</loc>
-        <lastmod>2020-07-06T22:33:53Z</lastmod>
+        <lastmod>2021-01-20T01:30:28Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/discrimination/</loc>
-        <lastmod>2020-07-06T23:15:43Z</lastmod>
+        <lastmod>2021-01-07T17:04:47Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/distance-learning/</loc>
+        <lastmod>2021-01-16T00:43:32Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/education/</loc>
-        <lastmod>2020-07-17T19:18:45Z</lastmod>
+        <lastmod>2021-02-03T21:46:25Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/equity/</loc>
+        <lastmod>2021-01-26T00:16:23Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/essential-workforce/</loc>
-        <lastmod>2020-07-06T23:22:42Z</lastmod>
+        <lastmod>2021-01-07T17:07:55Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/food-resources/</loc>
-        <lastmod>2020-07-17T22:56:25Z</lastmod>
+        <lastmod>2021-02-01T22:14:16Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/get-financial-help/</loc>
-        <lastmod>2020-06-17T17:05:51Z</lastmod>
+        <lastmod>2021-02-02T20:25:03Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/get-local-information/</loc>
-        <lastmod>2020-07-09T00:09:39Z</lastmod>
+        <lastmod>2021-01-20T00:19:44Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/get-tested/</loc>
+        <lastmod>2021-02-04T18:53:59Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/guidance-languages/</loc>
+        <lastmod>2020-11-26T01:29:53Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/guide-immigrant-californians/</loc>
-        <lastmod>2020-07-09T19:42:53Z</lastmod>
+        <lastmod>2021-01-26T19:01:20Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/healthcare/</loc>
-        <lastmod>2020-07-16T22:51:58Z</lastmod>
+        <lastmod>2021-02-05T21:52:09Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/healthcorps/</loc>
-        <lastmod>2020-07-09T17:29:22Z</lastmod>
+        <lastmod>2021-01-12T20:01:01Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/help-for-seniors/</loc>
+        <lastmod>2020-11-26T00:26:50Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/holidays/</loc>
+        <lastmod>2021-02-05T23:15:17Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/hotel-rooms-for-california-healthcare-workers/</loc>
-        <lastmod>2020-06-16T23:46:29Z</lastmod>
+        <lastmod>2021-02-01T22:25:23Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/hotline/</loc>
-        <lastmod>2020-06-18T21:11:53Z</lastmod>
+        <lastmod>2020-12-11T21:08:10Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/housing-and-homelessness/</loc>
-        <lastmod>2020-07-01T23:01:56Z</lastmod>
+        <lastmod>2021-01-30T01:32:11Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/housing-for-agricultural-workers/</loc>
+        <lastmod>2021-02-03T23:42:55Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/industry-guidance/</loc>
-        <lastmod>2020-07-20T16:50:46Z</lastmod>
+        <lastmod>2021-02-03T21:09:55Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/manage-stress-for-health/</loc>
-        <lastmod>2020-07-06T22:21:30Z</lastmod>
+        <lastmod>2021-02-04T21:53:39Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/masks-and-ppe/</loc>
-        <lastmod>2020-07-18T00:55:00Z</lastmod>
+        <lastmod>2021-02-02T23:09:45Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/more-ways-to-help/</loc>
-        <lastmod>2020-06-24T16:14:28Z</lastmod>
+        <lastmod>2020-11-26T01:31:23Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/plasma/</loc>
-        <lastmod>2020-06-26T21:38:09Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/public-recreation/</loc>
-        <lastmod>2020-06-11T19:05:30Z</lastmod>
+        <lastmod>2021-02-05T21:30:43Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/recovery-input/</loc>
-        <lastmod>2020-05-08T15:34:58Z</lastmod>
+        <lastmod>2020-08-26T17:57:55Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/request-ppe/</loc>
-        <lastmod>2020-07-10T00:42:11Z</lastmod>
+        <lastmod>2021-01-07T03:26:08Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/resources-for-emotional-support-and-well-being/</loc>
-        <lastmod>2020-07-06T22:55:40Z</lastmod>
+        <lastmod>2020-12-18T21:14:43Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/restaurants-deliver-home-meals-for-seniors/</loc>
-        <lastmod>2020-07-10T15:31:07Z</lastmod>
+        <lastmod>2021-01-11T17:50:42Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/roadmap-counties/</loc>
-        <lastmod>2020-07-16T17:51:27Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/roadmap/</loc>
-        <lastmod>2020-06-18T21:10:51Z</lastmod>
+        <loc>https://covid19.ca.gov/safer-economy/</loc>
+        <lastmod>2021-02-04T06:44:59Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/sign-up-for-county-alerts/</loc>
-        <lastmod>2020-06-17T22:22:32Z</lastmod>
+        <lastmod>2020-11-26T01:47:43Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/state-dashboard/</loc>
+        <lastmod>2020-10-16T20:39:53Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/stay-home-except-for-essential-needs/</loc>
-        <lastmod>2020-07-17T23:03:38Z</lastmod>
+        <lastmod>2021-02-04T02:09:09Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/symptoms-and-risks/</loc>
-        <lastmod>2020-07-02T23:40:58Z</lastmod>
+        <lastmod>2021-01-28T19:59:37Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/taxes/</loc>
-        <lastmod>2020-05-26T23:42:43Z</lastmod>
+        <lastmod>2021-01-22T18:57:28Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/telehealth/</loc>
-        <lastmod>2020-06-18T20:22:00Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/testing-and-treatment/</loc>
-        <lastmod>2020-07-16T21:45:17Z</lastmod>
+        <lastmod>2020-11-30T17:59:56Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/translate/</loc>
-        <lastmod>2020-06-16T20:19:45Z</lastmod>
+        <lastmod>2021-01-06T23:03:57Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/travel/</loc>
+        <lastmod>2021-02-02T19:58:46Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/treatment-for-covid-19/</loc>
+        <lastmod>2021-01-12T06:30:34Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/vaccines/</loc>
+        <lastmod>2021-02-05T16:27:29Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/workers/</loc>
-        <lastmod>2020-07-09T17:07:02Z</lastmod>
+        <lastmod>2021-02-03T21:30:55Z</lastmod>
     </url>
 
 </urlset>
