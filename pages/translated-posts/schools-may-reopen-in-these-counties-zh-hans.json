@@ -1,0 +1,19 @@
+{
+  "Table1": [
+    {
+      "undefined": "Alpine"
+    },
+    {
+      "undefined": "Mariposa"
+    },
+    {
+      "undefined": "Sierra"
+    }
+  ],
+  "Table2": [
+    {
+      "TIER_DATE": "2021年2月2日",
+      "TIER_ENDDATE": "2021年1月23日"
+    }
+  ]
+}
