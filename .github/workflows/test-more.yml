@@ -2,7 +2,7 @@ name: Testing tests less
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "*/10 * * * *"
 
 jobs:
   build_and_test_job:
