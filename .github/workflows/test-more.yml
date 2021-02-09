@@ -1,0 +1,29 @@
+name: Testing tests less
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build_and_test_job:
+    runs-on: ubuntu-latest
+    name: Build and test job
+    steps:
+      - uses: n1hility/cancel-previous-runs@v2
+        with: 
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@master
+      - name: Build 11ty
+        run: |
+          npm install
+          npm run build
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+      - name: npm test
+        run: |
+          npm test
+        env:
+          CI: true
